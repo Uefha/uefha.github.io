@@ -29,7 +29,7 @@
   .hero-copy .eyebrow{font-size:14px;letter-spacing:1.2px}
   .hero-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}
   .hero-actions .button{min-height:48px;padding-inline:10px;font-size:14px}
-  .hero-actions .cv-link{grid-column:1/-1;justify-self:stretch;min-height:42px;display:grid;place-items:center;border:1px solid var(--border);border-radius:10px;background:var(--surface)}
+  .hero-actions .cv-link{grid-column:auto;justify-self:stretch;min-height:48px;display:inline-flex;align-items:center;justify-content:center;padding:0 10px;border:1px solid var(--border);border-radius:11px;background:var(--surface)}
   .social-links{margin-top:22px}
   .section-heading-row{gap:10px}
   .section-heading-row>div{min-width:0}
