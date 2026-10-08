@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#dff4fc"/>
+      <stop offset="1" stop-color="#d8edf0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="560" fill="url(#background)"/>
+  <rect x="99" y="70" width="702" height="420" rx="22" fill="#fff"/>
+  <rect x="99" y="70" width="145" height="420" rx="22" fill="#153746"/>
+  <rect x="223" y="70" width="21" height="420" fill="#153746"/>
+  <circle cx="144" cy="110" r="15" fill="#37b7df"/>
+  <rect x="125" y="151" width="65" height="8" rx="4" fill="#aaa7c7"/>
+  <rect x="125" y="182" width="78" height="8" rx="4" fill="#66647f"/>
+  <rect x="125" y="213" width="56" height="8" rx="4" fill="#66647f"/>
+  <text x="278" y="126" fill="#183a4b" font-family="Arial" font-size="23" font-weight="700">Logistics Overview</text>
+  <rect x="278" y="148" width="240" height="10" rx="5" fill="#d9dae6"/>
+  <rect x="278" y="194" width="220" height="110" rx="12" fill="#f4fbfe"/>
+  <rect x="518" y="194" width="237" height="110" rx="12" fill="#f4fbfe"/>
+  <path d="M325 228h44l20 24h39v27h-103z" fill="#20a5d8"/>
+  <circle cx="349" cy="284" r="11" fill="#153746"/>
+  <circle cx="407" cy="284" r="11" fill="#153746"/>
+  <rect x="546" y="218" width="54" height="53" rx="5" fill="#5ab6a0"/>
+  <rect x="608" y="218" width="54" height="53" rx="5" fill="#eca964"/>
+  <rect x="670" y="218" width="54" height="53" rx="5" fill="#37b7df"/>
+  <rect x="278" y="329" width="477" height="119" rx="12" fill="#f7fcff"/>
+  <rect x="306" y="357" width="421" height="8" rx="4" fill="#d9dae6"/>
+  <rect x="306" y="385" width="330" height="8" rx="4" fill="#d9dae6"/>
+  <rect x="306" y="413" width="380" height="8" rx="4" fill="#d9dae6"/>
+  <text x="113" y="527" fill="#159bd3" font-family="Arial" font-size="19" font-weight="700" letter-spacing="3">SI-LOGISTIK</text>
+</svg>
