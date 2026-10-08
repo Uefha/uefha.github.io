@@ -34,8 +34,8 @@ const translations = {
     org_heading: 'Pengalaman organisasi', role_lead: 'Ketua', freshstock_desc: 'Mendirikan dan memimpin komunitas studi pasar modal yang berfokus pada pencarian return tinggi di saham IPO.',
     role_communications: 'Koordinator Komunikasi dan Jaringan', role_social: 'Admin Media Sosial', role_arts: 'Koordinator Seni dan Dakwah', role_secretary: 'Sekretaris',
     achievements_heading: 'Prestasi & kegiatan', award_2017: 'Juara 1 Musabaqah Qira’atil Kutub Aqidatul Awam tingkat Kabupaten Malang.', award_2018: 'Wisudawan terbaik ke-2 MTs Babussalam.', award_2019: 'Peserta Olimpiade Sains Kabupaten bidang Fisika.', award_2022: 'Menjadi divisi jurnalistik selama KKN dan menyelesaikan proyek artikel.',
-    contact_eyebrow: 'Hubungi saya', contact_title_first: 'Mari terhubung', contact_title_second: 'dan berkolaborasi.', contact_lead: 'Saya berdomisili di Malang. Silakan hubungi saya melalui email, telepon, atau LinkedIn.', send_email: 'Kirim email',
-    email: 'Email', phone: 'Telepon', linkedin: 'LinkedIn', footer_text: 'Dibuat dengan <span class="heart">♥</span> dan HTML, CSS & JavaScript.', back_top: 'Kembali ke atas',
+    contact_eyebrow: 'Hubungi saya', contact_title_first: 'Mari terhubung', contact_title_second: 'dan berkolaborasi.', contact_lead: 'Saya berdomisili di Malang. Silakan hubungi saya melalui email, telepon, LinkedIn, atau GitHub.', send_email: 'Kirim email',
+    email: 'Email', phone: 'Telepon', linkedin: 'LinkedIn', github: 'GitHub', footer_text: 'Dibuat dengan <span class="heart">♥</span> dan HTML, CSS & JavaScript.', back_top: 'Kembali ke atas',
     menu_open: 'Buka menu navigasi', menu_close: 'Tutup menu navigasi', switch_language: 'Bahasa Indonesia, ganti ke Inggris', theme_dark: 'Aktifkan mode gelap', theme_light: 'Aktifkan mode terang',
     project_technology: 'Teknologi', project_github: 'Kode sumber', project_demo: 'Demo langsung', unavailable: '(tautan belum tersedia)', title: 'Muhammad Nur Fadila — Portofolio', meta_description: 'Portofolio Muhammad Nur Fadila, fresh graduate Teknik Informatika dengan pengalaman administrasi, organisasi, dan manajemen keuangan di Malang.'
   },
@@ -58,8 +58,8 @@ const translations = {
     org_heading: 'Organizational experience', role_lead: 'Chairperson', freshstock_desc: 'Founded and led a capital-market study community focused on seeking strong returns in IPO stocks.',
     role_communications: 'Communications & Networking Coordinator', role_social: 'Social Media Administrator', role_arts: 'Arts & Outreach Coordinator', role_secretary: 'Secretary',
     achievements_heading: 'Achievements & activities', award_2017: 'First place, Musabaqah Qira’atil Kutub Aqidatul Awam, Malang Regency.', award_2018: 'Second-best graduate, MTs Babussalam.', award_2019: 'Participant in the Regency Physics Science Olympiad.', award_2022: 'Worked in the journalism division during KKN and completed an article project.',
-    contact_eyebrow: 'Get in touch', contact_title_first: 'Let’s connect', contact_title_second: 'and collaborate.', contact_lead: 'I’m based in Malang. You can reach me by email, phone, or LinkedIn.', send_email: 'Send me an email',
-    email: 'Email', phone: 'Phone', linkedin: 'LinkedIn', footer_text: 'Built with <span class="heart">♥</span> and HTML, CSS & JavaScript.', back_top: 'Back to top',
+    contact_eyebrow: 'Get in touch', contact_title_first: 'Let’s connect', contact_title_second: 'and collaborate.', contact_lead: 'I’m based in Malang. You can reach me by email, phone, LinkedIn, or GitHub.', send_email: 'Send me an email',
+    email: 'Email', phone: 'Phone', linkedin: 'LinkedIn', github: 'GitHub', footer_text: 'Built with <span class="heart">♥</span> and HTML, CSS & JavaScript.', back_top: 'Back to top',
     menu_open: 'Open navigation menu', menu_close: 'Close navigation menu', switch_language: 'English language, switch to Indonesian', theme_dark: 'Enable dark mode', theme_light: 'Enable light mode',
     project_technology: 'Technologies', project_github: 'Source code', project_demo: 'Live demo', unavailable: '(link not available yet)', title: 'Muhammad Nur Fadila — Portfolio', meta_description: 'Muhammad Nur Fadila’s portfolio: Informatics graduate with experience in administration, organizations, and financial management in Malang.'
   }
