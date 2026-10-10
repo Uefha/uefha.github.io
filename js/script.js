@@ -121,7 +121,7 @@ function setTheme(theme) {
   themeToggle.querySelector('.theme-icon').textContent = dark ? '☀' : '☾';
   document.querySelector('meta[name="theme-color"]').content = dark ? '#101c24' : '#f5fbfe';
 }
-setTheme(document.documentElement.dataset.theme || 'light');
+setTheme(document.documentElement.dataset.theme || 'dark');
 themeToggle.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'));
 
 // Header state, back-to-top visibility, and active section link share one scroll listener.
